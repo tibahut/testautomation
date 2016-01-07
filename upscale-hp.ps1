@@ -1,0 +1,1 @@
+    $CredentialAssetName = 'automation-test';
